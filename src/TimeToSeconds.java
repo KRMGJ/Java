@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class TimeToSeconds {
     public static void main(String[] args) {
+
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("시간을 입력하세요: ");
